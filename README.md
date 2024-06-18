@@ -1,5 +1,3 @@
 # Wi Fi App 
-![image](https://github.com/AZRAELSANTI/WiFi-wave-idea/assets/83638372/ece0e05c-7dac-4dfc-8adc-3fd0bbd7f179)
 
-
-![image](https://github.com/AZRAELSANTI/WiFi-wave-idea/assets/83638372/4979315f-6f8d-458e-9181-792a20444d70)
+https://github.com/AZRAELSANTI/MVVMDashboard/assets/83638372/146c33b5-5309-4c5c-ae88-553d687cb57b
